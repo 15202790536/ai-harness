@@ -1,0 +1,39 @@
+{
+  "name": "nexai-harness-market",
+  "owner": {
+    "name": "nexai"
+  },
+  "metadata": {
+    "description": "nexai Claude Code 插件市场 — 提供全栈开发编排、项目管理等 AI 原生开发插件",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ai-fullstack-orchestrator",
+      "source": "./plugins/ai-fullstack-orchestrator",
+      "description": "全栈开发编排插件：覆盖 v1.0 项目初始化到 v1.x 迭代变更的统一工作流。多语言支持（Java/Spring Boot、Python/FastAPI），模板引擎可扩展。",
+      "version": "1.0.0",
+      "author": {
+        "name": "nexai"
+      },
+      "keywords": [
+        "全栈开发",
+        "编排",
+        "代码生成",
+        "DDD",
+        "变更管理",
+        "多语言",
+        "TDD",
+        "代码审查",
+        "fullstack",
+        "orchestration",
+        "Java",
+        "Python",
+        "Vue",
+        "React",
+        "autopilot"
+      ],
+      "category": "开发工作流"
+    }
+  ]
+}

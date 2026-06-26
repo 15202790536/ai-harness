@@ -1,0 +1,20 @@
+{
+  "name": "ai-fullstack-orchestrator",
+  "version": "1.0.0",
+  "description": "AI 驱动的全栈开发编排插件。覆盖 v1.0 初始化（DDD 设计 + 数据库建模 + API 契约）与 v1.x 迭代变更（变更分析 + 拓扑排序 + 验证闭环）。多语言支持：Java/Spring Boot、Python/FastAPI，模板引擎可扩展。",
+  "author": {
+    "name": "nexai"
+  },
+  "keywords": [
+    "全栈开发",
+    "编排",
+    "代码生成",
+    "DDD",
+    "变更管理",
+    "多语言",
+    "TDD",
+    "代码审查",
+    "fullstack",
+    "orchestration"
+  ]
+}
