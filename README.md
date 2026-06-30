@@ -14,7 +14,7 @@ nexai 的 Claude Code 插件市场，提供 AI 原生开发全流程插件。
 
 ```text
 # 添加市场
-/plugin marketplace add <repo-url>
+/plugin marketplace add https://github.com/15202790536/ai-harness.git
 
 # 安装插件
 /plugin install ai-fullstack-orchestrator@nexai-harness-market

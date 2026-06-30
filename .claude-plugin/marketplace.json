@@ -3,6 +3,10 @@
   "owner": {
     "name": "nexai"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/15202790536/ai-harness.git"
+  },
   "metadata": {
     "description": "nexai Claude Code 插件市场 — 提供全栈开发编排、项目管理等 AI 原生开发插件",
     "version": "1.0.0"
